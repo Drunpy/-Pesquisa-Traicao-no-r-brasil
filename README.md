@@ -1,4 +1,4 @@
 # Research-Analysis
-Research and data analysis, mine or not.
+Research and data analysis.
 
 #Feel free to share or improve. 
